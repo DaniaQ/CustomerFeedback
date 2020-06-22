@@ -1,4 +1,4 @@
-# CustomerFeedback
+# CustomerFeedback WIP (Work In Progress)
 Customer Feedback Page Written in ReactJS
 
 # install Packages
@@ -9,3 +9,8 @@ Customer Feedback Page Written in ReactJS
 
 # Production Build
 `` npm run build ``
+
+#ToDo
+- Styling
+- Tests
+- Backend
