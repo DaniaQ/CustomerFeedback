@@ -1,7 +1,7 @@
 # CustomerFeedback WIP (Work In Progress)
 Customer Feedback Page Written in ReactJS
 
-# install Packages
+# Install Packages
 `` npm install            ``
 
 # Run Locally
