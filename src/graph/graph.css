@@ -1,0 +1,14 @@
+.graph-container {
+    float: left;
+    height: 400px;
+    width: 45%;
+    vertical-align: middle;
+}
+
+.graph-bar {
+    padding-top: 30px;
+}
+
+.rating-count {
+    margin-left: 20px;
+}

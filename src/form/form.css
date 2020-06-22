@@ -1,0 +1,33 @@
+.form-container {
+    width: 50%;
+    height: 400px;
+    float: left;
+    padding: 20px;
+}
+
+.form-group {
+    float: left;
+    width: 100%;
+    padding: 10px;
+}
+
+.form-input {
+    margin-left: 10px;
+    vertical-align: text-top;
+    width: 50%;
+}
+.rating {
+    margin-left: 10px;
+}
+
+.form-control {
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 100px;
+    width: 90%;
+}
+
+.submit-button {
+    width: 150px;
+    margin-left: 10px;
+}
